@@ -5,3 +5,7 @@ html, body {
   background-color: #36393f;
   color: #51acc5;
 }
+
+a:link {
+  color: #c9f1fd;
+}
