@@ -9,3 +9,15 @@ html, body {
 link {
   color: #c9f1fd;
 }
+
+visited {
+  color: #c9f1fd;
+}
+
+hover {
+  color: #c9f1fd;
+}
+
+active {
+  color:#c9f1fd;
+}
